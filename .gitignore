@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+logs/
+tensorboard_logs/
+runs/
+models/checkpoints/
+*.monitor.csv
+.DS_Store
+Thumbs.db
